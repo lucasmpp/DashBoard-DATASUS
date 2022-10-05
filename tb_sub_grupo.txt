@@ -1,0 +1,59 @@
+0301;Consultas / Atendimentos / Acompanhamentos                                                         ;202012
+0801;Ações relacionadas ao estabelecimento                                                               ;202012
+0201;Coleta de material                                                                                  ;202012
+0101;Ações coletivas/individuais em saúde                                                                ;202012
+0701;Órteses, próteses e materiais especiais não relacionados ao ato cirúrgico                           ;202012
+0601;Medicamentos de dispensação excepcional                                                             ;202012
+0501;Coleta e exames para fins de doação de orgãos, tecidos e células e de transplante                   ;202012
+0401;Pequenas cirurgias e cirurgias de pele, tecido subcutâneo e mucosa                                  ;202012
+0202;Diagnóstico em laboratório clínico                                                                  ;202012
+0102;Vigilância em saúde                                                                                 ;202012
+0802;Ações relacionadas ao atendimento                                                                   ;202012
+0702;Órteses, próteses e materiais especiais relacionados ao ato cirúrgico                               ;202012
+0602;Medicamentos estratégicos                                                                           ;202012
+0502;Avaliação de morte encefálica                                                                       ;202012
+0402;Cirurgia de glândulas endócrinas                                                                    ;202012
+0302;Fisioterapia                                                                                        ;202012
+0203;Diagnóstico por anatomia patológica e citopatologia                                                 ;202012
+0803;Autorização / regulação                                                                             ;202012
+0603;Medicamentos de âmbito hospitalar e urgência                                                        ;202012
+0403;Cirurgia do sistema nervoso central e periférico                                                    ;202012
+0303;Tratamentos clínicos (outras especialidades)                                                        ;202012
+0503;Ações relacionadas à doação de orgãos e tecidos para transplante                                    ;202012
+0504;Processamento de tecidos para transplante                                                           ;202012
+0404;Cirurgia das vias aéreas superiores, da face, da cabeça e do pescoço                                ;202012
+0204;Diagnóstico por radiologia                                                                          ;202012
+0604;Componente especializado da assistência farmacêutica                                                ;202012
+0304;Tratamento em oncologia                                                                             ;202012
+0305;Tratamento em nefrologia                                                                            ;202012
+0405;Cirurgia do aparelho da visão                                                                       ;202012
+0205;Diagnóstico por ultrasonografia                                                                     ;202012
+0505;Transplante de orgãos, tecidos e células                                                            ;202012
+0506;Acompanhamento e intercorrências no pré e pós-transplante                                           ;202012
+0206;Diagnóstico por tomografia                                                                          ;202012
+0406;Cirurgia do aparelho circulatório                                                                   ;202012
+0306;Hemoterapia                                                                                         ;202012
+0307;Tratamentos odontológicos                                                                           ;202012
+0207;Diagnóstico por ressonância magnética                                                               ;202012
+0407;Cirurgia do aparelho digestivo, orgãos anexos e parede abdominal                                    ;202012
+0208;Diagnóstico por medicina nuclear in vivo                                                            ;202012
+0308;Tratamento de lesões, envenenamentos e outros, decorrentes de causas externas                       ;202012
+0408;Cirurgia do sistema osteomuscular                                                                   ;202012
+0409;Cirurgia do aparelho geniturinário                                                                  ;202012
+0309;Terapias especializadas                                                                             ;202012
+0209;Diagnóstico por endoscopia                                                                          ;202012
+0410;Cirurgia de mama                                                                                    ;202012
+0310;Parto e nascimento                                                                                  ;202012
+0210;Diagnóstico por radiologia intervencionista                                                         ;202012
+0411;Cirurgia obstétrica                                                                                 ;202012
+0211;Métodos diagnósticos em especialidades                                                              ;202012
+0412;Cirurgia torácica                                                                                   ;202012
+0212;Diagnóstico e procedimentos especiais em hemoterapia                                                ;202012
+0213;Diagnóstico em vigilância epidemiológica e ambiental                                                ;202012
+0413;Cirurgia reparadora                                                                                 ;202012
+0414;Bucomaxilofacial                                                                                    ;202012
+0214;Diagnóstico por teste rápido                                                                        ;202012
+0415;Outras cirurgias                                                                                    ;202012
+0416;Cirurgia em oncologia                                                                               ;202012
+0417;Anestesiologia                                                                                      ;202012
+0418;Cirurgia em nefrologia                                                                              ;202012
